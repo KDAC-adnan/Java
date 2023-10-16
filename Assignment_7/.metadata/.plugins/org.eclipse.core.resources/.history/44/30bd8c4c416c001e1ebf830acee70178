@@ -1,0 +1,14 @@
+package com.sunbeaminfo;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+	
+		String s1="ADNAN";
+		for(int i=s1.length();i>=0;i++)
+		{
+			System.out.print(s1.charAt(i));
+		}
+	}
+
+}
