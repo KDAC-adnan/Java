@@ -28,8 +28,7 @@ public class CandidateDao implements AutoCloseable {
 			e.printStackTrace();
 		}
 	}
-	// add new candidate
-
+	
 	// delete given candidate
 	public int deleteById(int id) throws SQLException {
 		String sql = "DELETE FROM candidates WHERE id=?";

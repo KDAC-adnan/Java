@@ -1,10 +1,6 @@
 package com.sunbeam;
 
-/**
- * Core Java @ Sunbeam Karad Sep 2023
- * Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
- * Time: 2023-10-22 12:54
- */
+
 
 public class Candidate {
 	private int id;
